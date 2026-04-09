@@ -81,13 +81,3 @@ You can also install them from:
 pip install -r requirements.txt
 ```
 
-## Suggested upload contents
-
-These files and folders are good to keep in the GitHub repo:
-
-- source files: `generate_signals.py`, `preprocess.py`, `classifier.py`, `visualize.py`
-- documentation: `README.md`
-- dependency file: `requirements.txt`
-- generated example outputs in `results/`
-
-Local-only folders such as `__pycache__/` and `.mplconfig/` are ignored by `.gitignore`.
