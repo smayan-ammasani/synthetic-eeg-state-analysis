@@ -1,0 +1,526 @@
+{
+  "accuracy": 1.0,
+  "confusion_matrix": {
+    "relaxed": {
+      "relaxed": 12,
+      "focused": 0,
+      "noisy/uncertain": 0
+    },
+    "focused": {
+      "relaxed": 0,
+      "focused": 12,
+      "noisy/uncertain": 0
+    },
+    "noisy/uncertain": {
+      "relaxed": 0,
+      "focused": 0,
+      "noisy/uncertain": 12
+    }
+  },
+  "samples": [
+    {
+      "sample_index": 0,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8573066282454924,
+        "beta_ratio": 0.0038945189191220753,
+        "gamma_ratio": 0.0002596441959026409,
+        "very_high_ratio": 0.0007353555256309887,
+        "spectral_entropy": 0.0937600739510586,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23888901534270238
+      }
+    },
+    {
+      "sample_index": 1,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8492772638147723,
+        "beta_ratio": 0.0034440260650462308,
+        "gamma_ratio": 0.00016939330870202008,
+        "very_high_ratio": 0.0007814771027886674,
+        "spectral_entropy": 0.09271249055208143,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23768290612087886
+      }
+    },
+    {
+      "sample_index": 2,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8429813451904873,
+        "beta_ratio": 0.0034225004997984368,
+        "gamma_ratio": 0.00023810164341419836,
+        "very_high_ratio": 0.0008280708198276797,
+        "spectral_entropy": 0.0964019835282712,
+        "dominant_frequency": 10.0,
+        "roughness": 0.237796971878379
+      }
+    },
+    {
+      "sample_index": 3,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8461586602313853,
+        "beta_ratio": 0.003344630545864071,
+        "gamma_ratio": 0.00015779595065509524,
+        "very_high_ratio": 0.0007211340886699205,
+        "spectral_entropy": 0.0940543423268798,
+        "dominant_frequency": 10.0,
+        "roughness": 0.2369066877417228
+      }
+    },
+    {
+      "sample_index": 4,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8459047417995459,
+        "beta_ratio": 0.004842115096578201,
+        "gamma_ratio": 0.0002596800101849737,
+        "very_high_ratio": 0.0009183895916082555,
+        "spectral_entropy": 0.10209122264482899,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23955033700669676
+      }
+    },
+    {
+      "sample_index": 5,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8556441569000585,
+        "beta_ratio": 0.0046084475229616504,
+        "gamma_ratio": 0.0002689578333547984,
+        "very_high_ratio": 0.0009528923505006922,
+        "spectral_entropy": 0.09809585461804607,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23857413711406664
+      }
+    },
+    {
+      "sample_index": 6,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8576229997676108,
+        "beta_ratio": 0.0034486612111561347,
+        "gamma_ratio": 0.00024862048949210203,
+        "very_high_ratio": 0.0006239458052246223,
+        "spectral_entropy": 0.09308298949928565,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23876199908546206
+      }
+    },
+    {
+      "sample_index": 7,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8523373348382847,
+        "beta_ratio": 0.003164521049497928,
+        "gamma_ratio": 0.00010415508967399449,
+        "very_high_ratio": 0.0006878400247107945,
+        "spectral_entropy": 0.09277417416313778,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23744536858249796
+      }
+    },
+    {
+      "sample_index": 8,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8372744634027176,
+        "beta_ratio": 0.0032204442222419664,
+        "gamma_ratio": 0.00014397227502425765,
+        "very_high_ratio": 0.0007723669654479158,
+        "spectral_entropy": 0.09792434541032971,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23722739348224728
+      }
+    },
+    {
+      "sample_index": 9,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8453795359176013,
+        "beta_ratio": 0.0037061051672919085,
+        "gamma_ratio": 0.00027175130905407246,
+        "very_high_ratio": 0.0008312116169314083,
+        "spectral_entropy": 0.09714690377925315,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23639994777379014
+      }
+    },
+    {
+      "sample_index": 10,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.8464433851807778,
+        "beta_ratio": 0.004307688446234342,
+        "gamma_ratio": 0.00021239700456551064,
+        "very_high_ratio": 0.0007838719484940257,
+        "spectral_entropy": 0.09663898847598835,
+        "dominant_frequency": 10.0,
+        "roughness": 0.2379257214393001
+      }
+    },
+    {
+      "sample_index": 11,
+      "true_state": "relaxed",
+      "predicted_state": "relaxed",
+      "features": {
+        "alpha_ratio": 0.848035021554755,
+        "beta_ratio": 0.003910517187495742,
+        "gamma_ratio": 0.0002563955281428179,
+        "very_high_ratio": 0.0008349128196857137,
+        "spectral_entropy": 0.09605412254321546,
+        "dominant_frequency": 10.0,
+        "roughness": 0.23890048693423316
+      }
+    },
+    {
+      "sample_index": 12,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.005163931026015852,
+        "beta_ratio": 0.9176396989526162,
+        "gamma_ratio": 0.0005276750289362369,
+        "very_high_ratio": 0.0015972897819090017,
+        "spectral_entropy": 0.11187451585186604,
+        "dominant_frequency": 20.0,
+        "roughness": 0.4854029814417723
+      }
+    },
+    {
+      "sample_index": 13,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.004841586702263493,
+        "beta_ratio": 0.9311655844552403,
+        "gamma_ratio": 0.000725308532155184,
+        "very_high_ratio": 0.0017764626985593667,
+        "spectral_entropy": 0.107920095674774,
+        "dominant_frequency": 20.0,
+        "roughness": 0.48478134579666116
+      }
+    },
+    {
+      "sample_index": 14,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.004308220214697108,
+        "beta_ratio": 0.9268557195910485,
+        "gamma_ratio": 0.0005298196342976729,
+        "very_high_ratio": 0.0016766175285027208,
+        "spectral_entropy": 0.10388656838754962,
+        "dominant_frequency": 20.0,
+        "roughness": 0.4855265186402797
+      }
+    },
+    {
+      "sample_index": 15,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.003290335950042425,
+        "beta_ratio": 0.9292766834136716,
+        "gamma_ratio": 0.000665378075110544,
+        "very_high_ratio": 0.0017571442405818851,
+        "spectral_entropy": 0.11130719115080849,
+        "dominant_frequency": 20.0,
+        "roughness": 0.48590710454109903
+      }
+    },
+    {
+      "sample_index": 16,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.004128954578059008,
+        "beta_ratio": 0.9293730957367337,
+        "gamma_ratio": 0.0005679237819950992,
+        "very_high_ratio": 0.0016369240713620763,
+        "spectral_entropy": 0.11031724554110817,
+        "dominant_frequency": 20.0,
+        "roughness": 0.4874403492762717
+      }
+    },
+    {
+      "sample_index": 17,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.004719604593177785,
+        "beta_ratio": 0.9303027401490385,
+        "gamma_ratio": 0.00046929606934427193,
+        "very_high_ratio": 0.0012402292498626464,
+        "spectral_entropy": 0.10176717303015843,
+        "dominant_frequency": 20.0,
+        "roughness": 0.48631119028586006
+      }
+    },
+    {
+      "sample_index": 18,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.004578131936037513,
+        "beta_ratio": 0.9207131637139044,
+        "gamma_ratio": 0.0005745891933426295,
+        "very_high_ratio": 0.0016618687122154632,
+        "spectral_entropy": 0.11548946226852953,
+        "dominant_frequency": 20.0,
+        "roughness": 0.48395748895815105
+      }
+    },
+    {
+      "sample_index": 19,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.0030644040001957286,
+        "beta_ratio": 0.9294808089816909,
+        "gamma_ratio": 0.0005491984765849098,
+        "very_high_ratio": 0.0016293076334222068,
+        "spectral_entropy": 0.10611779498616596,
+        "dominant_frequency": 20.0,
+        "roughness": 0.4846243718372871
+      }
+    },
+    {
+      "sample_index": 20,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.0029668426899454744,
+        "beta_ratio": 0.9361159292029532,
+        "gamma_ratio": 0.0006896100536244169,
+        "very_high_ratio": 0.0013185170987504507,
+        "spectral_entropy": 0.10064980166250874,
+        "dominant_frequency": 20.0,
+        "roughness": 0.486151251117353
+      }
+    },
+    {
+      "sample_index": 21,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.0036905214715997735,
+        "beta_ratio": 0.9219578049000094,
+        "gamma_ratio": 0.0004071258697475365,
+        "very_high_ratio": 0.0021212701936899796,
+        "spectral_entropy": 0.11635873684139675,
+        "dominant_frequency": 20.0,
+        "roughness": 0.486514893101487
+      }
+    },
+    {
+      "sample_index": 22,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.0031051884420085097,
+        "beta_ratio": 0.9232847053647074,
+        "gamma_ratio": 0.0005861569553642042,
+        "very_high_ratio": 0.0020178415308318575,
+        "spectral_entropy": 0.11299370539737054,
+        "dominant_frequency": 20.0,
+        "roughness": 0.484184827842571
+      }
+    },
+    {
+      "sample_index": 23,
+      "true_state": "focused",
+      "predicted_state": "focused",
+      "features": {
+        "alpha_ratio": 0.007701375783854967,
+        "beta_ratio": 0.9199324403340216,
+        "gamma_ratio": 0.0008610116602211727,
+        "very_high_ratio": 0.0025944876666402577,
+        "spectral_entropy": 0.1201003255509816,
+        "dominant_frequency": 20.0,
+        "roughness": 0.48487201860066614
+      }
+    },
+    {
+      "sample_index": 24,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7362453336763378,
+        "beta_ratio": 0.17480023417114945,
+        "gamma_ratio": 0.0026354348187991187,
+        "very_high_ratio": 0.014947769459276668,
+        "spectral_entropy": 0.28600805598736445,
+        "dominant_frequency": 9.0,
+        "roughness": 0.36256728710413644
+      }
+    },
+    {
+      "sample_index": 25,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7458796444567877,
+        "beta_ratio": 0.17781636063268913,
+        "gamma_ratio": 0.0020227678409213247,
+        "very_high_ratio": 0.009376652461490996,
+        "spectral_entropy": 0.23920463309866355,
+        "dominant_frequency": 9.0,
+        "roughness": 0.34368336622773354
+      }
+    },
+    {
+      "sample_index": 26,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7321466835743228,
+        "beta_ratio": 0.18444950611293662,
+        "gamma_ratio": 0.0016887051735027419,
+        "very_high_ratio": 0.008005278748980613,
+        "spectral_entropy": 0.24396229893154034,
+        "dominant_frequency": 9.0,
+        "roughness": 0.34430066425839095
+      }
+    },
+    {
+      "sample_index": 27,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.669731286829327,
+        "beta_ratio": 0.1997744324382578,
+        "gamma_ratio": 0.004220794449045644,
+        "very_high_ratio": 0.021477470964083905,
+        "spectral_entropy": 0.34592636866826054,
+        "dominant_frequency": 9.0,
+        "roughness": 0.3980558371880178
+      }
+    },
+    {
+      "sample_index": 28,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7239177986575903,
+        "beta_ratio": 0.1781698206158291,
+        "gamma_ratio": 0.002343177972404671,
+        "very_high_ratio": 0.014806919937969176,
+        "spectral_entropy": 0.2739989396379093,
+        "dominant_frequency": 9.0,
+        "roughness": 0.3595757421209581
+      }
+    },
+    {
+      "sample_index": 29,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7101650250990379,
+        "beta_ratio": 0.2072454403817593,
+        "gamma_ratio": 0.0023173457528437853,
+        "very_high_ratio": 0.011416556569149224,
+        "spectral_entropy": 0.2921394432847882,
+        "dominant_frequency": 9.0,
+        "roughness": 0.3576790131867971
+      }
+    },
+    {
+      "sample_index": 30,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7387224472934008,
+        "beta_ratio": 0.1807714798385511,
+        "gamma_ratio": 0.0018115256984490243,
+        "very_high_ratio": 0.008723824639464379,
+        "spectral_entropy": 0.2517633825387114,
+        "dominant_frequency": 9.0,
+        "roughness": 0.34784728526873143
+      }
+    },
+    {
+      "sample_index": 31,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.74341262792781,
+        "beta_ratio": 0.17993880792694794,
+        "gamma_ratio": 0.0020050976300826856,
+        "very_high_ratio": 0.010852773173370226,
+        "spectral_entropy": 0.24874017729171824,
+        "dominant_frequency": 9.0,
+        "roughness": 0.34748666486636676
+      }
+    },
+    {
+      "sample_index": 32,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7667630225451341,
+        "beta_ratio": 0.16569881346684814,
+        "gamma_ratio": 0.0020177592679697224,
+        "very_high_ratio": 0.011195956284667826,
+        "spectral_entropy": 0.22493607538357688,
+        "dominant_frequency": 9.0,
+        "roughness": 0.3460627697195396
+      }
+    },
+    {
+      "sample_index": 33,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7172690594269672,
+        "beta_ratio": 0.1979191576605288,
+        "gamma_ratio": 0.00208020956561204,
+        "very_high_ratio": 0.010945619247245419,
+        "spectral_entropy": 0.27045825707644083,
+        "dominant_frequency": 9.0,
+        "roughness": 0.3572962325519503
+      }
+    },
+    {
+      "sample_index": 34,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.7038740920623638,
+        "beta_ratio": 0.19838647760902198,
+        "gamma_ratio": 0.004665581284887761,
+        "very_high_ratio": 0.018270507634313187,
+        "spectral_entropy": 0.3233328803921381,
+        "dominant_frequency": 9.0,
+        "roughness": 0.37844023620758743
+      }
+    },
+    {
+      "sample_index": 35,
+      "true_state": "noisy/uncertain",
+      "predicted_state": "noisy/uncertain",
+      "features": {
+        "alpha_ratio": 0.6640619864199275,
+        "beta_ratio": 0.20180772149996878,
+        "gamma_ratio": 0.0018805257950034026,
+        "very_high_ratio": 0.014787278541183889,
+        "spectral_entropy": 0.3215583388878374,
+        "dominant_frequency": 9.0,
+        "roughness": 0.3644827015399465
+      }
+    }
+  ]
+}
